@@ -1,0 +1,7 @@
+{
+  "name": "crmc-todo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
