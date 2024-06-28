@@ -25,3 +25,12 @@
 #container a {
   text-decoration: none;
 }
+
+.completed {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.toggle {
+  cursor: pointer;
+}

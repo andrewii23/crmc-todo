@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'crm.crmc.crmctodo',
   appName: 'crmc-todo',
   webDir: 'www'
 };
